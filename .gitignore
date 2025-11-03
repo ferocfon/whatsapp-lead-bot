@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# WhatsApp-Web session data
+.wwebjs_auth/
+
+# Local database
+/data/
+*.sqlite
+
+# Environment variables
+.env
